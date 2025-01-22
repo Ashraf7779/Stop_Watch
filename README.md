@@ -1,4 +1,4 @@
-# **⏱️Stopwatch Project**
+# **⏱️Stopwatch Web Application**
 
 A feature-rich stopwatch application built using **HTML**, **CSS**, and **JavaScript**. This stopwatch includes precise time tracking down to milliseconds, lap recording, and standard timer controls like start, pause, reset, and stop.
 
