@@ -37,6 +37,6 @@ To run the project:
 
 ## **🎯Deployment**
 ## 🎯 **Deployment**
-The application is live and accessible: [Stopwatch Demo]()
+The application is live and accessible: [Stopwatch Demo](https://ashraf7779.github.io/Prodigy_Task-01/)
 
 
