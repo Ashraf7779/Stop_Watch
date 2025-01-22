@@ -22,6 +22,7 @@ A feature-rich stopwatch application built using **HTML**, **CSS**, and **JavaSc
 5. **Stop**: Click the `Stop` button to completely stop and reset the stopwatch.
 
 ## **📂Project Structure**
+```
 stopwatch/
 ├── index.html    # Main HTML file
 ├── style.css     # Styling file
