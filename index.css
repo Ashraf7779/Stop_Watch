@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url('./assests/stopwatch2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  margin: 0;
+}
+
+.stopwatch {
+  text-align: center;
+  padding: 20px;
+  margin-left: 200px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.stopwatch h1{
+  color: black;
+}
+
+.time-display {
+  font-size: 48px;
+  margin: 20px 0;
+  color: white;
+}
+
+.buttons button {
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#start {
+  background-color: #4caf50;
+  color: white;
+}
+
+#pause {
+  background-color: #ff9800;
+  color: white;
+}
+
+#lap {
+  background-color: #673ab7;
+  color: white;
+}
+
+#reset {
+  background-color: #f44336;
+  color: white;
+}
+
+#stop {
+  background-color: #2196f3;
+  color: white;
+}
+
+ul#laps {
+  margin-top: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+ul#laps li {
+  background: #f9f9f9;
+  margin: 5px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
