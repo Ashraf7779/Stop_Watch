@@ -35,6 +35,6 @@ To run the project:
 1. Clone or download the repository.
 2. Open the `index.html` file in any web browser.
 
-##**🎯Deployment**
+## **🎯Deployment**
 The application is live and accessible : Stopwatch Demo
 
