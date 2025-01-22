@@ -36,5 +36,7 @@ To run the project:
 2. Open the `index.html` file in any web browser.
 
 ## **🎯Deployment**
-The application is live and accessible : Stopwatch Demo
+## 🎯 **Deployment**
+The application is live and accessible: [Stopwatch Demo]()
+
 
